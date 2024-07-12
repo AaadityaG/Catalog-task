@@ -1,0 +1,15 @@
+/* src/index.css */
+@import './assets/font/stylesheet.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family: 'Circular Std Book';
+    margin: 0px;
+    padding: 0px; 
+    font-weight: 400;   
+    font-style: normal; 
+}
